@@ -6,4 +6,4 @@ eod|BPO End-of-Day Report|2026-10-14 01:19
 live-chat-bp-2026-10|Live Chat Hours Around Bill Pay - October 2026|2026-10-14 01:13
 telus-hours-2026-09|Telus Hours vs Zendesk - September 2026|2026-10-14 01:17
 telus-plan-vs-actual-2026-09|Telus Planned vs Actual - September 2026|2026-10-14 01:16
-telus-staffing|Telus Staffing|2026-10-14 19:14
+telus-staffing|Telus Staffing|2026-10-14 19:18
